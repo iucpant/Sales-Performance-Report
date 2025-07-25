@@ -51,8 +51,6 @@ The dashboard provides business stakeholders with a high-level and drillable vie
 
 ## 🖼️ Dashboard Preview
 
-```markdown
-## 🖼️ Dashboard Preview
-
 ![KPI Overview](kpi_overview.png)
+
 
