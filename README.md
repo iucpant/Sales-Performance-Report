@@ -51,9 +51,8 @@ The dashboard provides business stakeholders with a high-level and drillable vie
 
 ## 🖼️ Dashboard Preview
 
-_Add screenshots like these:_
-
 ```markdown
-![KPI Overview](images/kpi_overview.png)
-![Revenue Trends](images/revenue_trends.png)
-![Regional Sales Map](images/sales_map.png)
+## 🖼️ Dashboard Preview
+
+![KPI Overview](kpi_overview.png)
+
