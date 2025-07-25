@@ -41,7 +41,7 @@ The dashboard provides business stakeholders with a high-level and drillable vie
 
 ## 📁 Files Included
 
-- `Sales_Performance_Dashboard.pbix` – Power BI Desktop file with data model, visuals, and measures
+- Download the Power BI report: [Sales_Performance_Dashboard.pbix](Sales_Performance_Dashboard.pbix)
 
 ## 💻 How to View
 
